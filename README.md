@@ -45,7 +45,7 @@ Dataset 1 RMSE:
 |  vy     | 0.2646        | 0.4399 | 
 
 
-![data_set1] (./out/data_set1.png)
+
 
 Dataset 2 RMSE:
 
@@ -56,6 +56,7 @@ Dataset 2 RMSE:
 |  vx   | 0.4487      | 0.4579 |
 |  vy     | 0.3278        | 0.4966 | 
 
+![data_set1] (./out/data_set1.png)
 
-![data_set1] (./out/data_set2.png)
+![data_set2] (./out/data_set2.png)
 
