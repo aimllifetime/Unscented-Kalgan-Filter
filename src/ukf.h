@@ -31,6 +31,9 @@ public:
   ///* predicted sigma points matrix
   MatrixXd Xsig_pred_;
 
+  ///* measurement timestamp
+  long long previous_timestamp_;
+
   ///* time when the state is true, in us
   long long time_us_;
 
