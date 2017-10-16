@@ -15,7 +15,10 @@ Instruction to build and run:
 4. make
 5. ./UnscentedKF   <= to run the program
 
-Following files have been coded to implement the Kalman filter and extended kalman filter: src/FusionEKF.cpp, src/FusionEKF.h, kalman_filter.cpp, kalman_filter.h, tools.cpp, and tools.h
+Following files have been coded to implement the Kalman filter and extended kalman filter:
+src/tools.cpp
+src/ukf.cpp
+src/ukf.h
 
 
 INPUT: values provided by the simulator to the c++ program
@@ -58,9 +61,9 @@ Dataset 2 RMSE:
 
 
 
-![data_set1] (./out/data_set1.png)
+![data_set1](./out/data_set1.png)
 
 
 
-![data_set2] (./out/data_set2.png)
+![data_set2](./out/data_set2.png)
 
