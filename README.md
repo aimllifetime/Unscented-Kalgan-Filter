@@ -36,7 +36,7 @@ OUTPUT: values provided by the c++ program to the simulator
 ["rmse_vy"]
 
 
-Results:
+Results: UKF has better results than EKF!
 
 Dataset 1 RMSE:
 
